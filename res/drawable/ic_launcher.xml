@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Une planche de BD : cadre noir, cases blanches. Lisible en niveaux de gris. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path android:fillColor="#FFFFFF" android:pathData="M0,0h108v108h-108z" />
+    <path android:fillColor="#000000" android:pathData="M18,12h72v84h-72z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M24,18h36v28h-36z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M64,18h20v28h-20z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M24,50h60v18h-60z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M24,72h22v18h-22z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M50,72h34v18h-34z" />
+    <path android:fillColor="#000000" android:pathData="M30,24h18v4h-18zM30,32h12v4h-12z" />
+</vector>
