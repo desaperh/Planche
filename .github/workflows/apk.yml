@@ -38,7 +38,7 @@ jobs:
       - name: Compilation
         run: ./build.sh
 
-      - uses: actions/upload-artifact@v5
+      - uses: actions/upload-artifact@v6
         with:
           name: Planche-apk
           path: build/Planche.apk
